@@ -1,0 +1,8 @@
+/* cropping gallery image to square */
+
+.photo-gallery img {
+  width: 30vw;
+  height: 30vw;
+  object-fit: cover;
+}
+
